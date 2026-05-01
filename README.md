@@ -13,6 +13,8 @@ Frontend	React.js
 Backend	Python (FastAPI / Flask)
 AI Models	OpenAI GPT, Google Gemini 2.0 Flash
 Type	Full-Stack AI Web Application
+<img width="748" height="527" alt="ai interview photo 2" src="https://github.com/user-attachments/assets/335513b2-411d-478d-9fa9-2b2b6dbaf6f1" />
+
 ✨ Key Features
 🎯 On-Camera AI Interview — Real-time interview simulation with animated AI avatar
 
